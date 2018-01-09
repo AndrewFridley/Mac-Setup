@@ -1,2 +1,2 @@
-# mac-setup2
+# Mac-Setup
 mac setup
